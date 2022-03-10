@@ -1,0 +1,137 @@
+<vehicleDescriptor WTS_layoutVersion="0.5.0 r19385" vehicleAssetName="Bus" defaultFont="Arial Bold">
+  <position x="0" y="0" z="0" />
+  <rotation x="0" y="0" z="0" />
+  <scale x="1" y="1" z="1" />
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Center" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" fontClass="Regular" allCaps="false" applyAbbreviations="true" prefix="" suffix="" textContent="OwnName" saveName="Number roof">
+    <WriteLineMaxDimensions x="2" y="0.44" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="0" y="2.87900066" z="-2.11000061" />
+      <rotation x="-90" y="0" z="180" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="false" color="000000" colorSource="Fixed" />
+    <IlluminationSettings strength="1" depth="1" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="OPAQUE" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="false" color="000000">
+      <size x="0" y="0" />
+      <frame inheritColor="false" color="000000" glassColor="7F7F7F" frontDepth="0.1" glassTransparency="0.7" glassSpecularLevel="0.2" backDepth="0.5" frontBorderThickness="0.05">
+        <backSize x="0" y="0" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Left" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" fontClass="Regular" allCaps="false" applyAbbreviations="true" prefix="" suffix="" textContent="OwnName" saveName="Number R">
+    <WriteLineMaxDimensions x="1.29999983" y="0.24000001" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="1.28499973" y="0.810000062" z="-2.22400117" />
+      <rotation x="0" y="90" z="0" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="false" color="000000" colorSource="Fixed" />
+    <IlluminationSettings strength="1" depth="1" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="OPAQUE" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="false" color="737373">
+      <size x="0" y="0" />
+      <frame inheritColor="false" color="000000" glassColor="7F7F7F" frontDepth="0.1" glassTransparency="0.7" glassSpecularLevel="0.2" backDepth="0.5" frontBorderThickness="0.05">
+        <backSize x="0" y="0" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Right" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" fontClass="Regular" allCaps="false" applyAbbreviations="true" prefix="" suffix="" textContent="OwnName" saveName="Number L">
+    <WriteLineMaxDimensions x="1.29999983" y="0.24000001" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="-1.285" y="0.8100003" z="-2.22400117" />
+      <rotation x="0" y="-90" z="0" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="false" color="000000" colorSource="Fixed" />
+    <IlluminationSettings strength="1" depth="1" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="OPAQUE" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="false" color="737373">
+      <size x="0" y="0" />
+      <frame inheritColor="false" color="000000" glassColor="7F7F7F" frontDepth="0.1" glassTransparency="0.7" glassSpecularLevel="0.2" backDepth="0.5" frontBorderThickness="0.05">
+        <backSize x="0" y="0" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Right" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" fontClass="Regular" allCaps="false" applyAbbreviations="true" prefix="" suffix="" textContent="OwnName" saveName="Number back">
+    <WriteLineMaxDimensions x="0.85" y="0.120000005" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="0.425" y="1.01" z="-4.483001" />
+      <rotation x="0" y="180" z="0" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="true" colorSource="Contrast" />
+    <IlluminationSettings strength="1" depth="1" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="OPAQUE" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="false" color="000000">
+      <size x="0" y="0" />
+      <frame inheritColor="false" color="000000" glassColor="7F7F7F" frontDepth="0.1" glassTransparency="0.7" glassSpecularLevel="0.2" backDepth="0.5" frontBorderThickness="0.05">
+        <backSize x="0" y="0" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Center" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" fontClass="ElectronicBoards" allCaps="false" applyAbbreviations="true" prefix="" suffix="" textContent="LineIdentifier" saveName="Line id back">
+    <WriteLineMaxDimensions x="0.44" y="0.120000005" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="0" y="2.49000049" z="-4.52700138" />
+      <rotation x="-10.7" y="180" z="0" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="false" color="FFE500" colorSource="Fixed" />
+    <IlluminationSettings strength="1" depth="0" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="BRIGHT" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="true" color="2B2B2B">
+      <size x="0.5" y="0.231" />
+      <frame inheritColor="true" color="7C7C7C" glassColor="7F7F7F" frontDepth="0.01" glassTransparency="0.61" glassSpecularLevel="0.29" backDepth="0.5" frontBorderThickness="0.02">
+        <backSize x="0.5" y="0.11" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+  <textDescriptor applyOverflowResizingOnY="false" textAlign="Center" textContentV2="None" destinationReference="Self" parameterIdx="0" fixedText="Text" overrideFont="Arial Bold" fontClass="PublicTransport" allCaps="false" applyAbbreviations="false" prefix="" suffix="" textContent="LinesSymbols" saveName="Depot back">
+    <WriteLineMaxDimensions x="0" y="0.246" />
+    <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false" mirrored="false">
+      <position x="-0.5249999" y="0.957000256" z="-4.484" />
+      <rotation x="0" y="-180" z="0" />
+    </PlacingSettings>
+    <ColoringSettings useContrastColor="false" color="FFFFFF" colorSource="Fixed" />
+    <IlluminationSettings strength="1" depth="0" requiredFlags="0" forbiddenFlags="0" requiredFlags2="0" forbiddenFlags2="0" type="OPAQUE" blinkType="None">
+      <customBlinkParams x="0" y="0" z="0" w="0" />
+    </IlluminationSettings>
+    <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+      <subItemSpacing x="0" y="0" />
+    </MultiItemSettings>
+    <BackgroundMeshSettings useFrame="false" color="000000">
+      <size x="0" y="0" />
+      <frame inheritColor="false" color="7F7F7F" glassColor="7F7F7F" frontDepth="0.01" glassTransparency="0.62" glassSpecularLevel="0.26" backDepth="0.5" frontBorderThickness="0.01">
+        <backSize x="0" y="0" />
+        <backOffset x="0" y="0" />
+      </frame>
+    </BackgroundMeshSettings>
+    <AnimationSettings extraDelayCycleFrames="0" itemCycleFramesDuration="400" />
+  </textDescriptor>
+</vehicleDescriptor>
